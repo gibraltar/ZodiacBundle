@@ -10,7 +10,7 @@
             "homepage": "http://odeski.ca"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "alpha",
     "require": {
         "php": ">=5.3.2",
         "ext-intl": "*",
