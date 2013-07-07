@@ -12,7 +12,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Lunetics\ZodiacBundle\Zodiac;
+namespace Gibraltar\ZodiacBundle\Zodiac;
 
 /**
  * Zodiac calculator class
