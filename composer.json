@@ -21,7 +21,7 @@
         "twig/twig": "1.*"
     },
     "autoload": {
-        "psr-0": { "Lunetics\\ZodiacBundle": "" }
+        "psr-0": { "Gibraltar\\ZodiacBundle": "" }
     },
     "target-dir": "Gibraltar/ZodiacBundle"
 }
