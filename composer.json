@@ -1,12 +1,12 @@
 {
-    "name": "lunetics/zodiac-bundle",
+    "name": "gibraltar/zodiac-bundle",
     "description": "A Bundle for displaying the zodiac for a Date",
     "keywords": ["zodiac", "bundle", "astronomical", "horoscope"],
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
         {
-            "name": "Lunetics",
+            "name": "Gibraltar",
             "homepage": "http://odeski.ca"
         }
     ],
@@ -23,5 +23,5 @@
     "autoload": {
         "psr-0": { "Lunetics\\ZodiacBundle": "" }
     },
-    "target-dir": "Lunetics/ZodiacBundle"
+    "target-dir": "Gibraltar/ZodiacBundle"
 }
