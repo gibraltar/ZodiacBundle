@@ -12,7 +12,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Lunetics\ZodiacBundle;
+namespace Gibraltar\ZodiacBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
@@ -21,6 +21,6 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
  *
  * @author Matthias Breddin <mb@lunetics.com>
  */
-class LuneticsZodiacBundle extends Bundle
+class GibraltarZodiacBundle extends Bundle
 {
 }
