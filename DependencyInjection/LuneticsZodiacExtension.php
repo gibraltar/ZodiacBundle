@@ -12,7 +12,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Lunetics\ZodiacBundle\DependencyInjection;
+namespace Gibraltar\ZodiacBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;
@@ -24,7 +24,7 @@ use Symfony\Component\DependencyInjection\Loader;
  *
  * @author Matthias Breddin <mb@lunetics.com>
  */
-class LuneticsZodiacExtension extends Extension
+class GibraltarZodiacExtension extends Extension
 {
     /**
      * {@inheritDoc}
